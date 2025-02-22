@@ -5,6 +5,7 @@ script to analyse basic server performance stats.
 ## DevOps Roadmap
 This project is part of the DevOps roadmap. You can explore more about this in the DevOps Roadmap.
 https://roadmap.sh/projects/server-stats
+
 # Server Stats Script
 
 This repository contains a set of scripts to monitor and display key system statistics for different operating systems. Currently, the script supports Windows, Linux, and macOS. It gathers information such as CPU usage, memory usage, disk usage, top processes, OS version, uptime, and more.
